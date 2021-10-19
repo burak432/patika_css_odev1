@@ -1,0 +1,16 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #F6F6F6;
+  color: #212121;
+  font-weight: 500;
+}
+
+.giris h1 {
+    font-size: 3rem;
+}
+
+footer {
+    text-align: center;
+    background-color: #6D9886;
+    color: #D9CAB3;
+}
